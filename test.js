@@ -1,6 +1,7 @@
-
+import{createToken) from "./utils";
 let a =0;
 const btn = document.getElementById('btn')
+
 btn.onclick = function () {
   
   createToken()
