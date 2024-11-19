@@ -1,4 +1,4 @@
-import{createToken) from "./utils";
+import{createToken} from "./utils";
 let a =0;
 const btn = document.getElementById('btn')
 
